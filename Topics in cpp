@@ -1,0 +1,25 @@
+1} Time compexcity of a code
+2} linear data structures
+    a. Array
+    b. Stack
+    c. Queue
+    d. link list
+3} basic algorithums
+   a. Greedy approch 
+   b. string algos
+   c. basic dynamic approch 
+   d. searches
+4} Mathamatics
+   a. Prime numbers
+   b. Euclidean Algo
+   c. GCD
+   d. fermits theorum
+   e. tutiont function
+5} BST
+   a. Insertion in a BST
+   b. Tree traversal techniques
+   c. Height of Binary Search Tree
+   d. Validating a BST
+   e. Finding the Lowest Common Ancestor of key1 and key2 in BST
+   f. Deletion of a node 'N' from BST
+   g. Finding maximum (or minimum) in path from node A to node B
